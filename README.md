@@ -3,14 +3,23 @@
 My Profile
 <br>
 Name         : Mohamed Suaib Jalloh
+<br>
 Date-of-birth: 14 March 1993
+<br>
 Address .    : 2 Ansly street
+<br>
 Email        : suaibmj@gmail.com
+<br>
 Status       : single
+<br>
 Future wife  : Iye jalloh
+<br>
 Univeristy   : Limkokwing University Of Creative Technology Sierra Leone Campus
+<br>
 Faculty      : Faculty of Information Communication and Technology
+<br>
 Course       : Information Technology
+<br>
 Level        : Semester 6, Year 3
 
 
