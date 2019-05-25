@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Pages
 
 My Profile
+<br>
 Name         : Mohamed Suaib Jalloh
 Date-of-birth: 14 March 1993
 Address .    : 2 Ansly street
@@ -23,6 +24,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
 ### Header 3
 
