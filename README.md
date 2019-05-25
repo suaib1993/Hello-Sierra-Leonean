@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/suaib1993/Hello-Sierra-Leonean/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My Profile
+Name         : Mohamed Suaib Jalloh
+Date-of-birth: 14 March 1993
+Address .    : 2 Ansly street
+Email        : suaibmj@gmail.com
+Status       : single
+Future wife  : Iye jalloh
+Univeristy   : Limkokwing University Of Creative Technology Sierra Leone Campus
+Faculty      : Faculty of Information Communication and Technology
+Course       : Information Technology
+Level        : Semester 6, Year 3
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
