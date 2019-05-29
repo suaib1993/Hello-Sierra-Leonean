@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-My Profile
+<h1>My Profile</h1>
 <br>
 Name         : Mohamed Suaib Jalloh
 <br>
